@@ -69,6 +69,11 @@ Le notebook peuvent être exécutés sur Google Colab.
 
 Données tirées de l'API du Nasdaq
 
+Obtenir des données à partir de l'aps du Nasdaq data link
+
+1. Créez un compte : [Docs ici] (https://docs.data.nasdaq.com/docs).
+2. Obtenez les données : python utils/NasdaqGetData.py [votre clé API] 1980-01-01
+
 - Taux FED
   - FRED_DFEDTAR.csv - Taux FED cible jusqu'en 2008, Quotidiennement
   - FRED_DFEDTARU.csv - Taux FED supérieur cible à partir de 2008, Quotidiennement

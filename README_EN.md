@@ -69,6 +69,11 @@ The notebook can be executed on Google Colab.
 
 Data pulled from the Nasdaq API
 
+Get data from Nasdaq data link's aps
+
+1. Create an account: [Docs here](https://docs.data.nasdaq.com/docs).
+2. Get the data: python utils/NasdaqGetData.py [your API Key] 1980-01-01
+
 - FED Rate
   - FRED_DFEDTAR.csv - Target FED Rate till 2008, Daily
   - FRED_DFEDTARU.csv - Target Upper FED Rate from 2008, Daily
