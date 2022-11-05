@@ -2,6 +2,10 @@
 
 ### By PolyFinances, National Bank, Finance Montreal, SR.AI
 
+Notebook with simple example / Notebook avec un exemple simple
+
+- [Notebook](/example.ipynb)
+
 ## English
 
 - [case](Datathon%202022%20-%20Case%20-%20EN.pdf)
